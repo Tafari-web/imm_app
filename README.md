@@ -1,7 +1,6 @@
 # imm_app
 
 Group Assignment
-
 Roll Numbers:
 1. 202312290
 2. 202311720
